@@ -1,5 +1,8 @@
 Hello World 
 I am doing well
+<<<<<<< HEAD
 Still doing well 
 oops I messed up 
 
+=======
+>>>>>>> parent of f9a61b9... well
