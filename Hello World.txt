@@ -1,6 +1,12 @@
 Hello World 
 I am doing well
+<<<<<<< HEAD
 not doing well anymore
+=======
+<<<<<<< HEAD
 Still doing well 
 oops I messed up 
 
+=======
+>>>>>>> parent of f9a61b9... well
+>>>>>>> parent of 64f525a... fixed
