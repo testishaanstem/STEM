@@ -7,6 +7,3 @@ not doing well anymore
 Still doing well 
 oops I messed up 
 
-=======
->>>>>>> parent of f9a61b9... well
->>>>>>> parent of 64f525a... fixed
